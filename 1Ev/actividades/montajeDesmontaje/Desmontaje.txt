@@ -1,0 +1,7 @@
+- Abrimos la caja para observar el interior de la torre.
+
+- Identificaremos cada componente.
+
+- Desconectamos todos los cables.
+
+- Desmontar piezas. 

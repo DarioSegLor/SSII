@@ -1,0 +1,5 @@
+- Empezamos Conectando el refrigerador de la cpu y conectamos el cable a la placa base
+- Fijamos la placa base al chasis 
+- Encajamos la gráfica
+- Fuente de alimentación y sus respectivos cables.
+- Reconectamos los cables.
